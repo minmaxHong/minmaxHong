@@ -3,8 +3,14 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=ComputerVision&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
 ### :wave:  Welcome my github profile !
+
+BITAmin 13기 Data Analysis(23.8 ~ )
+<br/>
+LG Aimers 4기(24.1 ~ )
+<br/>
+DACON 대구 교통사고 피해 예측 AI 경진대회 상위 6%
+
   
- <br/>
  <br/>
   
 ####  :clipboard: Once I've Used 
