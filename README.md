@@ -6,7 +6,9 @@
 
 Department of Multimedia Engineering, Dongguk University (20.3 ~ )
 <br/>
-BITAmin 13기 Data Analysis (23.8 ~ )
+사다리 (22.3 ~ 22.8)
+<br/>
+BITAmin 12기 Data Analysis (23.8 ~ )
 <br/>
 LG Aimers 4기 (24.1 ~ )
 <br/>
