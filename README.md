@@ -17,8 +17,6 @@ DACON 대구 교통사고 피해 예측 AI 경진대회 상위 6%
   
  <br/>
   
-####  :clipboard: Once I've Used 
-  
  <br/>
   
 <img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -33,12 +31,4 @@ DACON 대구 교통사고 피해 예측 AI 경진대회 상위 6%
    <br/>
    <br/>
  
-### 🔥 Language 🔥
-  <br/>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minmaxHong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### 🔥 Blog 🔥
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=landsky1234)](https://github.com/eungyeole/velog-readme-stats)
 </div>
