@@ -3,8 +3,6 @@
 - 🎓 **B.S. in Multimedia Engineering**, [Dongguk University](https://www.dongguk.edu/main), Korea  
 - 📚 Currently an **Research Intern** at [CILab, Dongguk University](https://cilab.dongguk.edu/)  
 - 🔬 Planning to pursue a **M.S. in Learning-based Image Fusion** at [CILab, Dongguk University](https://cilab.dongguk.edu/)  
-- 🚗 Currently responsible for **lane detection and point cloud processing** at **[MACARON 6.0](https://cafe.naver.com/dgumacaron)**  
-- 🌆 Testing algorithms in the autonomous driving experimental cities, **[K-City](https://www.katri.or.kr/web/main/index.do)** and **[FMTC](https://fmtc.snu.ac.kr/)**, since June 2024  
 
 ---
 
