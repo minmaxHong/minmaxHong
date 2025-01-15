@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&vCenter=true&height=30&lines=Hello!;I'm+Duong)](https://git.io/typing-svg)
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&vCenter=true&height=30&lines=Hello!;I'm+SungMin)](https://git.io/typing-svg)
 </br>
 <img src="https://cdn.dribbble.com/users/966681/screenshots/2896143/media/0434fa69ebb7390c11fb38c2cb934353.gif" height="150">
 <p>
