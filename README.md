@@ -17,7 +17,6 @@ class MSStudent:
     def __init__(self):
         self.name = "Sungmin Hong"
         self.role = "M.S. Student"
-        self.language_spoken = ["en_US", "vn_VN"]
 
     def say_hi(self):
         print("Thanks for dropping by!")
